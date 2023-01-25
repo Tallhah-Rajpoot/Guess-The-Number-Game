@@ -7,4 +7,4 @@ Guess the Number Game
 -screen turn green when you guess the correct number
 =having a reset button too
 
-(/Preview.png)
+![Preview](https://user-images.githubusercontent.com/112540430/214581706-6b39f34c-7ca4-45b3-9e1e-f0ca0cb0a666.png)
